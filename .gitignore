@@ -1,0 +1,5 @@
+*.txt
+*.docx
+*.tmp
+_pycache_
+env3.9
