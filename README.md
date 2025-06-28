@@ -22,3 +22,5 @@ Data is loaded from 'output' folder
 ## Results
 ner_loss plot
 parsed_resume.png
+
+## P.S Use python 3.9 with the packages versions listed in requirements.txt
